@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <title> resultSheet</title>
+    <link rel="stylesheet" href="{% static 'output.css' %}">
+
+
+</head>
+
+<body id="bg" style="background-image: url('{% static 'images/heart3.jpg'  %}');">
+    <div class="tab">
+        <div><a href="{% url 'dises' %}"><button class="tablinks" onclick="openCity(event, 'Check Again')">Check
+                    Again</button></a></div>
+
+        <div>
+            <a href="{% url 'login_view' %}"><button class="tablinks"
+                    onclick="openCity(event, 'Logout')">Logout</button></a>
+
+        </div>
+    </div>
+    <h2>
+        Result of Disease!!
+    </h2>
+
+    {% if result == 0 %}
+    <h4 style="color: green;">
+        You haven't Autism
+    </h4>
+    {% elif result == 1 %}
+    <h4 style="color: red;">You Have Autism</h4>
+    {% else %}
+    <h4>Enter your problem first</h4>
+    {% endif %}
+    
+</body>
+
+</html>

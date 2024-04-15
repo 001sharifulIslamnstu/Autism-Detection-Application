@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Check Disease Form</title>
+    <link rel="stylesheet" href="{% static 'dises.css' %}">
+</head>
+
+<body id="bg" style="background-image: url('{% static 'images/heart.jpg'  %}');">
+    <h1>
+        Check Autism Disease Prediction
+    </h1>
+    <form method="POST" action="{% url 'dises' %}">
+        {% csrf_token %}
+
+        
+        
+        
+        <textarea type="text" name="A1" id="A1" cols="40" rows="3" class="A1" placeholder="Does your child look at you when you call his/her name?"></textarea>
+
+        <textarea type="text" name="A2" id="A2" cols="40" rows="3" class="A2" placeholder="How easy is it for you to get eye contact with your child?"></textarea>
+
+        <textarea type="text" name="A3" id="A3" cols="40" rows="3" class="A3" placeholder="Does your child point to indicate that s/he wants something?"></textarea>
+
+        <textarea type="text" name="A4" id="A4" cols="40" rows="3" class="A4" placeholder="Does your child point to share an interest with you?"></textarea>
+
+        <textarea type="text" name="A5" id="A5" cols="40" rows="3" class="A5" placeholder="Does your child pretend? e.g. care for dolls, talk on a toy phone?"></textarea>
+
+        <textarea type="text" name="A6" id="A6" cols="40" rows="3" class="A6" placeholder="Does your child follow where you are looking?"></textarea>
+        
+        <textarea type="text" name="A7" id="A7" cols="40" rows="5" class="A7" placeholder="If you or someone else in the family is visible upset, does your child show signs of wanning."></textarea>
+
+        <textarea type="text" name="A8" id="A8" cols="40" rows="3" class="A8" placeholder="Would you describe your child's first word?"></textarea>
+        
+        <input type="text" class="Age" placeholder="Age in Month" id="Age" name="Age">
+        <input type="text" class="Gender" placeholder="Gender (Male or Female)" id="Gender" name="Gender">
+        <input type="text" class="Ethnicity" placeholder="Common Ethnicities" id="Ethnicity" name="Ethnicity">
+        <input type="text" class="jaundice" placeholder="Born With Jaundice" id="jaundice"
+            name="jaundice">
+
+        
+
+        <input type="submit" name="submit" value="Check Now">
+
+    </form>
+</body>
+
+</html>
