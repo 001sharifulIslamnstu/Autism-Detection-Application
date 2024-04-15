@@ -1,2 +1,1 @@
-# autism_web_app
- sjgklfdgrdkl
+# Autism Detection applicaiton
