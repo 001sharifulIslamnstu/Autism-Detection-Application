@@ -1,0 +1,177 @@
+body {
+  font: 1em/1.5 sans-seriff;
+}
+#bg {
+  background-size: 1800px 1400px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  height: 1400px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: darkblue;
+}
+
+form {
+  margin: 18px auto;
+  width: 370px;
+  color: steelblue;
+}
+
+input {
+  padding: 8px;
+  font-size: inherit;
+}
+
+textarea {
+  padding: 8px;
+  font-size: inherit;
+}
+
+::placeholder{
+  color: rgb(14, 13, 13);
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.Age {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+}
+
+.Gender {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+}
+
+.Ethnicity {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+}
+
+.jaundice {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+.A1 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+  
+  
+}
+
+.A2 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+.A3 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+.A4 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+.A5 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+.A6 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+.A7 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+.A8 {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+  background-color: #faf6d9;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+
+
+
+
+input[type="submit"] {
+  width: 390px;
+  height: 45px;
+  border: none;
+  background: blue;
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+input:focus {
+  background: white;
+}
