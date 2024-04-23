@@ -1,0 +1,113 @@
+library(e1071)
+library(partykit)
+library(ROCR)
+library(rpart.plot)
+library(randomForest)
+library(C50)
+library(plotrix)
+library(dlookr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(grid)
+
+#Read data
+data <- read_csv(""C:/Users/ABU TAREQ RONY/OneDrive/Desktop/New Poject Autism/Dataset/data.csv")
+
+#Descriptive Statistic
+summary(data)
+str(data)
+
+#Remove Case No as it has no contribution
+data <- data[,-1]
+head(data)
+summary(data)
+
+#Check null values
+colSums(is.na(data))
+
+#Correlation of numeric data
+#data = as.numeric(data)
+require(corrplot)# correlation package
+cordata.2 <- cor(data[,c(1,2,3,4,5,6,7,8,9,10,11,12)])
+corrplot.mixed(cordata.2)# Correlation plot and values in a matrix graph 
+
+
+
+#Exploratory Data Analysis
+
+# Grouped Bar Plot
+barplot(table(data$Class, data$Sex), main="Distribution of Sex vs Class",
+        xlab="Sex", col=c("antiquewhite3","bisque1"),
+        legend = rownames(table(data$Class, data$Sex)), beside=TRUE)
+
+
+#Other visualization
+x<-filter(data,Class=="Yes")
+p1<-ggplot(data,aes(Sex))+geom_bar(aes(fill=Class)) 
+p2<-ggplot(data,aes(Ethnicity))+geom_bar(aes(fill=Class))
+p3<-ggplot(data,aes(Jaundice))+geom_bar(aes(fill=Class))
+p4<-ggplot(data,aes(Relation))+geom_bar(aes(fill=Class))
+p5<-ggplot(data,aes(Family_mem_with_ASD))+geom_bar(aes(fill=Class))
+legend <- get_legend(Class)
+grid.arrange(p1,p2,p3,p4,p5, ncol=1, top=textGrob("Exploratory Data Analysis", gp=gpar(fontsize=12, font = 2)))
+
+#Pie Chart of Class Attribute
+tab_sub <- table(data$Class)
+pct <- round(tab_sub/sum(tab_sub)*100)
+lbls <- c("Yes", "No")
+lbls <- paste(lbls, pct) # add percents to labels 
+lbls <- paste(pct,"%",sep="") # ad % to labels
+                 pie3D(tab_sub,labels=lbls,explode=0.5,
+                       main="Pie Chart of Autism Class")
+                 
+                 
+                 hist(data$age, col = "deepskyblue4")
+                 
+                 b1<-boxplot(age~Class, data=data, notch=TRUE, 
+                             col=(c("gold","darkgreen")),
+                             main="Boxplot of Age with Outlier", xlab="Subscription")
+                 
+                 
+                 #Outlier remove from data
+                 data <- read_csv("Dataset/Toddler Autism dataset July 2018.csv")
+                 boxplot(data$age,main="Age Boxplot",col="deepskyblue3", plot=T)$out
+                 boxplot(data$Qchat_score,main="Qchat_Score, Boxplot",col="deepskyblue4", plot=T)$out
+                 outliers <- boxplot(data$age, plot=T)$out#Do aagain from this line
+                 x<-data #https://www.r-bloggers.com/2020/01/how-to-remove-outliers-in-r/
+                 data<- x[-which(x$age %in% outliers),]
+                 No_Outlier<-boxplot(data$age)
+                 
+                 
+                 
+                 ##MOdelling
+                 set.seed(22)
+                 library(readr)
+                 head(data)
+                 data <- read_csv("C:/Users/ABU TAREQ RONY/OneDrive/Desktop/Toddler Autism dataset July 2018.csv")
+                 data$Class <- as.factor(data$Class)
+                 library(caret)
+                 inTrain <- createDataPartition(data$Class, p = 0.8, list = FALSE)
+                 autism_train <- data[inTrain, ]
+                 autism_test <- data[-inTrain, ]
+                 
+                 #ctrl <- trainControl(method = "cv", number = 10, classProbs = TRUE)
+                 
+                 
+                 #Logistics Regression
+                 log_fit <- train(Class ~., data = autism_train,
+                                  method = "glm")
+                 summary(log_fit)
+                 
+                 
+                 log_imp <- varImp(log_fit, scale = FALSE, competes = FALSE)
+                 log_imp
+                 
+                 pred_log <- predict(log_fit, newdata = autism_test)
+                 cf<-confusionMatrix(pred_log, autism_test$Class)
+                 # Visualizing Confusion Matrix
+                 fourfoldplot(as.table(cf),color=c("azure4","cadetblue4"),main = "Confusion Matrix Logistics Regression(R)")
+                 
+                 
+                 
+                 
