@@ -1,0 +1,1055 @@
+A1,A2,A3,A4,A5,A6,A7,A8,age,Sex,Ethnicity,Jaundice,Class
+0,0,0,0,0,0,1,1,18.60539681,f,middle eastern,yes,No
+1,1,0,0,0,1,1,0,13.82936938,m,White European,yes,Yes
+1,0,0,0,0,0,1,1,14.67989264,m,middle eastern,yes,Yes
+1,1,1,1,1,1,1,1,61.03528807,m,Hispanic,no,Yes
+1,1,0,1,1,1,1,1,14.25668605,f,White European,no,Yes
+1,1,0,0,1,1,1,1,15.57819071,m,black,no,Yes
+1,0,0,1,1,1,0,0,21.36698098,m,asian,yes,Yes
+0,1,0,0,1,0,1,1,28.93006774,m,asian,yes,Yes
+0,0,0,0,0,0,1,0,20.30594341,m,asian,no,No
+1,1,1,0,1,1,0,1,17.96459873,m,south asian,no,Yes
+1,0,0,1,0,1,1,0,15.40690273,m,Hispanic,yes,Yes
+1,1,1,1,0,1,1,1,22.87041047,m,middle eastern,yes,Yes
+0,0,0,0,0,0,0,0,29.11206645,f,middle eastern,yes,No
+1,1,1,1,0,0,1,0,45.7861637,f,middle eastern,yes,Yes
+0,0,0,0,0,0,0,0,28.71312905,m,middle eastern,no,No
+1,1,1,0,1,0,1,1,36.08435983,m,black,no,Yes
+0,0,0,0,0,0,0,0,52.20892387,m,middle eastern,no,No
+1,1,1,0,1,1,1,1,13.97301145,f,middle eastern,yes,Yes
+1,0,0,0,1,0,0,0,15.55955208,f,middle eastern,no,No
+1,1,1,0,1,0,1,1,13.99395149,f,black,no,Yes
+1,0,0,1,1,1,1,1,24.34811834,m,middle eastern,no,Yes
+1,0,1,1,1,1,1,0,38.5945887,m,middle eastern,no,Yes
+1,0,1,1,0,1,0,1,37.54394119,m,Native Indian,yes,Yes
+1,1,1,0,1,1,0,1,15.77964696,m,middle eastern,yes,Yes
+1,1,1,1,1,1,1,1,37.91975494,m,White European,no,Yes
+0,0,0,0,0,0,0,0,31.79042116,f,middle eastern,no,No
+1,1,0,1,1,1,1,1,54.51081856,m,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,24.2640054,m,Others,yes,Yes
+0,0,1,1,1,0,1,1,44.85675975,m,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,13.71660497,m,middle eastern,yes,No
+0,0,0,0,0,0,0,0,23.01064721,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,34.48599757,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,24.62929977,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,45.98472454,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,23.8768401,f,middle eastern,no,No
+1,1,1,1,1,1,1,1,54.53720884,f,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,13.53526348,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,25.55286793,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,55.07023813,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,44.8700017,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,14.24974298,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,39.43876274,f,black,no,No
+0,0,0,0,0,0,0,0,37.11566426,f,black,no,No
+0,0,0,0,0,0,0,0,16.09705879,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,65.6951177,f,middle eastern,no,No
+0,0,0,0,0,0,1,0,17.9297571,m,asian,no,No
+0,0,0,0,0,0,0,0,38.0985636,m,middle eastern,yes,No
+0,0,0,0,0,0,0,0,31.26745092,f,White European,no,No
+0,0,0,0,0,0,0,0,37.37522679,f,White European,no,No
+0,0,0,0,0,0,0,0,27.47619568,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,24.04423243,m,middle eastern,no,No
+0,0,0,0,0,0,0,0,15.92003387,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,14.39803871,f,middle eastern,no,No
+1,1,1,1,1,1,1,1,17.63356169,f,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,22.14783581,f,black,no,No
+0,0,1,1,0,1,1,0,41.71234687,f,White European,no,Yes
+1,0,0,0,0,1,1,0,48.56647483,f,south asian,no,Yes
+0,0,0,1,1,1,1,1,51.80196369,m,asian,no,Yes
+0,0,0,0,0,0,0,1,30.64667127,f,White European,no,No
+0,0,0,0,0,0,0,0,33.05861987,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,20.53650583,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,27.24063427,f,middle eastern,no,No
+1,1,0,0,1,1,1,1,26.30248764,m,White European,yes,Yes
+0,0,1,1,1,1,1,0,32.42403082,m,White European,no,Yes
+0,0,1,1,0,0,0,0,52.02688326,m,middle eastern,yes,No
+1,1,1,1,1,1,1,0,44.09821754,f,White European,no,Yes
+0,0,0,0,1,0,1,1,21.10272977,f,middle eastern,yes,Yes
+0,0,0,0,0,0,0,1,17.51408417,m,White European,no,No
+1,0,1,0,0,0,0,0,15.59883742,m,south asian,no,No
+1,0,1,1,1,1,1,0,19.53559466,f,asian,yes,Yes
+1,1,0,0,1,1,1,1,17.42176325,m,Others,no,Yes
+0,0,1,1,1,1,1,0,17.38545741,m,asian,no,Yes
+1,1,1,1,1,1,1,1,9.560504591,f,White European,no,Yes
+0,0,0,0,0,0,0,1,25.95016033,m,middle eastern,no,No
+1,1,0,0,1,0,1,0,35.83746454,m,asian,no,Yes
+1,0,0,1,1,1,1,1,11.54993958,m,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,38.67351458,m,asian,no,No
+0,0,0,0,0,0,0,0,29.6603158,m,asian,no,No
+0,0,0,0,0,0,0,0,42.2214725,m,asian,no,No
+1,0,0,0,0,0,0,1,30.57399179,m,middle eastern,no,No
+0,1,0,0,0,0,0,0,27.58499933,m,middle eastern,no,No
+1,0,1,1,0,1,1,1,12.94714991,m,asian,no,Yes
+1,1,0,1,1,1,1,1,30.07064518,f,White European,yes,Yes
+1,0,1,1,0,1,1,1,21.60769114,m,asian,no,Yes
+1,1,0,1,0,1,1,0,18.65259136,m,middle eastern,no,Yes
+0,0,0,1,1,1,0,0,20.22910815,m,White European,yes,Yes
+0,0,0,0,0,0,0,0,14.69486744,m,middle eastern,yes,No
+0,0,0,1,0,0,1,0,70.80160415,m,middle eastern,no,No
+1,0,0,0,1,0,1,0,19.46573847,m,asian,no,Yes
+1,1,1,1,1,1,1,1,29.98828071,m,asian,no,Yes
+0,0,0,0,0,0,0,0,21.55665806,m,asian,no,No
+1,0,0,0,0,0,1,0,28.76435032,m,asian,no,No
+1,1,0,0,1,1,1,1,14.4545617,m,asian,no,Yes
+0,0,0,0,0,0,0,1,24.27300103,f,Others,yes,No
+0,0,0,1,0,0,1,1,24.55505931,m,asian,no,Yes
+0,1,0,0,0,0,0,0,28.24751537,f,middle eastern,no,No
+1,0,1,1,1,1,1,0,17.39781861,f,asian,no,Yes
+1,0,0,0,1,0,1,1,46.14982009,m,asian,no,Yes
+0,0,0,0,0,0,0,0,24.4713742,m,asian,no,No
+0,0,0,0,0,0,0,0,32.23937347,f,Others,no,No
+0,0,1,1,0,0,0,0,69.09837764,m,middle eastern,no,No
+0,0,0,0,0,1,1,1,45.37472227,f,middle eastern,no,Yes
+1,0,0,1,0,1,1,0,47.84566809,f,middle eastern,yes,Yes
+1,1,0,0,0,0,0,1,28.56308891,m,middle eastern,no,Yes
+1,1,0,0,0,1,0,0,13.09682249,f,middle eastern,yes,Yes
+1,1,1,1,1,1,1,1,19.80506544,m,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,27.61175669,f,middle eastern,yes,No
+1,1,0,0,1,1,0,1,16.7146808,m,middle eastern,no,Yes
+1,1,0,0,1,1,1,1,26.41488838,f,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,29.33349476,f,middle eastern,no,No
+0,0,0,0,1,0,1,0,21.32706907,m,middle eastern,no,No
+0,1,0,0,0,0,1,1,67.55850162,m,south asian,no,Yes
+0,0,0,0,0,0,1,1,18.50446693,m,asian,no,No
+0,0,0,0,0,0,1,1,19.53928574,m,asian,no,No
+1,1,0,0,1,1,1,0,31.43579833,m,White European,yes,Yes
+0,0,1,1,1,1,1,1,20.08757477,m,asian,no,Yes
+0,0,1,1,0,0,1,0,69.05226045,m,asian,no,Yes
+1,1,1,1,1,1,1,1,23.05540341,m,White European,no,Yes
+1,1,0,0,0,1,0,0,62.01077975,m,middle eastern,no,No
+1,1,0,1,1,1,0,0,14.59720978,m,Hispanic,yes,Yes
+0,1,0,1,1,0,1,0,47.87638561,m,asian,no,Yes
+0,1,0,0,0,1,1,1,42.21516864,f,White European,no,Yes
+0,0,0,0,0,0,0,1,22.62568164,f,White European,yes,No
+0,0,0,0,0,1,0,0,14.92302777,f,asian,no,No
+1,1,0,1,1,1,1,0,53.25270496,m,White European,no,Yes
+1,0,0,0,1,0,1,1,25.55856781,m,asian,no,Yes
+0,0,0,0,0,0,0,0,15.47212097,f,White European,no,No
+0,0,0,0,0,0,0,0,32.86252139,m,middle eastern,no,No
+0,0,1,1,1,1,1,0,32.4945138,f,White European,yes,Yes
+1,1,0,1,1,1,1,0,26.30495213,m,middle eastern,no,Yes
+1,1,1,0,1,1,1,0,55.87718249,f,asian,no,Yes
+1,0,1,1,1,0,0,1,28.16768892,m,asian,no,Yes
+0,0,0,0,0,0,0,0,18.74165104,f,south asian,yes,No
+1,0,0,0,1,0,0,0,18.24228234,f,south asian,yes,No
+1,1,0,0,1,0,0,1,45.17808556,f,south asian,yes,Yes
+0,0,0,0,1,0,0,0,26.72393465,f,south asian,yes,No
+1,1,1,1,1,1,1,1,71.08419062,m,middle eastern,yes,Yes
+0,0,1,1,1,0,0,0,25.77650282,m,asian,yes,Yes
+1,1,1,1,1,1,1,1,18.00560631,m,south asian,no,Yes
+1,1,0,0,0,0,0,1,22.12052239,f,asian,yes,Yes
+1,1,1,1,1,1,1,1,21.23165613,m,south asian,no,Yes
+1,1,0,1,1,0,1,0,47.98800877,m,middle eastern,no,Yes
+1,1,0,0,0,1,0,1,24.65502345,f,White European,no,Yes
+0,1,0,0,0,0,1,0,19.5181971,f,asian,no,No
+0,0,0,0,1,1,1,0,29.74431679,f,middle eastern,yes,No
+1,1,1,1,1,1,1,1,39.70332795,m,asian,no,Yes
+1,1,0,1,1,1,0,1,29.31918969,m,asian,no,Yes
+0,0,0,0,0,0,0,0,35.72545637,m,asian,no,No
+0,0,0,0,0,0,1,0,27.81662774,f,Latino,no,No
+1,0,0,0,0,0,0,1,23.45687224,m,White European,no,No
+0,0,0,0,0,0,0,1,24.97098115,f,asian,no,No
+0,1,0,1,0,0,1,0,17.03338276,m,asian,no,Yes
+0,0,0,1,0,0,1,0,18.56656926,m,asian,no,No
+1,1,1,1,1,1,1,1,22.57895951,m,White European,no,Yes
+1,1,0,1,0,0,1,0,20.99807204,m,asian,no,Yes
+1,1,0,1,1,1,1,1,20.85087407,m,middle eastern,no,Yes
+1,1,1,1,1,1,1,0,33.15345606,f,White European,no,Yes
+0,0,1,1,1,1,0,1,16.91617977,m,middle eastern,no,Yes
+0,1,1,1,0,1,0,1,17.49596329,m,asian,no,Yes
+0,1,1,1,0,1,1,1,17.56342082,m,asian,no,Yes
+0,1,0,1,1,1,1,1,37.38204891,m,White European,no,Yes
+1,0,1,1,1,1,0,0,17.86860128,m,White European,yes,Yes
+1,1,1,1,1,1,1,0,30.68204661,m,White European,yes,Yes
+0,0,0,0,1,1,1,0,30.5726803,m,White European,no,No
+0,0,0,0,0,0,1,0,30.65806538,m,asian,no,No
+0,0,0,0,0,0,0,0,24.78260151,f,Others,no,No
+0,1,0,0,0,0,1,0,20.3267982,f,asian,no,No
+0,0,0,0,0,0,1,0,19.0425534,f,White European,yes,No
+0,0,0,0,0,0,0,0,35.05333688,f,Latino,no,No
+0,0,0,0,0,0,0,0,31.18446071,m,mixed,no,No
+0,0,0,1,1,1,0,0,22.27304531,f,mixed,no,No
+0,1,1,1,1,0,1,0,12.3573003,m,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,55.32273412,m,middle eastern,no,No
+0,1,0,0,0,0,0,0,64.07729888,f,White European,yes,No
+0,1,0,0,0,0,0,0,16.99434028,f,White European,yes,No
+1,0,0,0,1,1,0,1,27.97710674,m,asian,no,Yes
+0,0,1,0,1,0,0,0,22.38919405,m,asian,no,No
+0,0,1,0,0,1,0,0,30.63901324,m,asian,no,No
+1,0,1,0,0,1,0,0,20.29018852,m,asian,no,No
+1,0,1,0,0,1,0,0,24.87843843,m,asian,no,No
+0,1,0,1,0,1,1,1,53.31213707,f,White European,no,Yes
+0,0,0,1,0,0,0,0,38.62482504,m,south asian,yes,No
+1,0,0,0,0,1,0,0,12.24753182,m,asian,no,No
+1,0,1,1,0,0,0,0,24.17754462,m,south asian,yes,No
+1,0,1,1,1,1,1,1,59.97435003,m,asian,no,Yes
+0,0,0,0,1,0,1,0,18.53436695,f,White European,yes,Yes
+1,0,1,1,1,1,1,1,16.53744586,m,asian,yes,Yes
+1,1,0,0,0,0,0,0,22.47238061,m,White European,no,No
+0,1,0,0,0,0,0,0,54.1267139,m,White European,yes,No
+1,1,0,0,0,0,0,0,26.72591344,m,White European,yes,No
+1,0,0,0,1,1,1,0,27.42240544,m,White European,no,Yes
+0,0,0,0,0,0,1,1,16.49152984,f,south asian,no,No
+1,1,0,0,0,0,1,0,17.84015282,f,south asian,no,Yes
+0,0,0,1,0,0,0,0,13.00076319,m,middle eastern,no,No
+1,0,0,1,0,1,0,0,21.33664412,m,middle eastern,no,No
+1,1,1,1,0,1,1,0,48.50984312,f,asian,yes,Yes
+1,1,0,1,0,1,1,0,24.5500137,f,asian,yes,Yes
+1,1,0,0,0,1,1,1,17.84051133,m,middle eastern,no,Yes
+1,0,1,1,1,1,1,0,14.67194994,m,asian,no,Yes
+0,1,1,0,1,0,1,0,26.13266488,m,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,58.23716737,f,asian,no,Yes
+1,1,1,1,0,1,1,1,27.77326719,f,black,no,Yes
+1,0,1,1,1,1,1,0,28.39174517,f,black,no,Yes
+1,0,0,0,0,0,1,1,38.19603988,m,White European,yes,Yes
+1,1,1,1,0,1,1,1,19.48255661,m,Latino,yes,Yes
+1,1,0,0,0,0,1,0,23.10647714,m,middle eastern,yes,Yes
+1,1,1,1,1,1,1,0,37.32451578,m,White European,no,Yes
+0,0,0,1,1,1,1,1,28.0402643,m,White European,no,Yes
+0,1,0,1,0,1,0,0,42.17293948,m,middle eastern,yes,No
+0,0,0,0,1,0,0,0,16.45927794,m,south asian,no,No
+0,1,1,1,0,0,0,0,21.20709159,m,asian,no,No
+1,1,0,0,1,1,1,1,14.25136597,m,asian,no,Yes
+0,1,0,0,1,1,1,1,20.39654655,f,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,59.64456984,f,White European,yes,Yes
+0,0,0,0,0,0,1,1,26.27653497,m,Hispanic,no,Yes
+0,0,0,1,0,0,0,1,24.50929034,m,middle eastern,no,No
+0,0,0,0,0,1,0,0,50.13199013,f,middle eastern,no,No
+1,1,1,1,1,1,1,0,26.44489182,f,White European,no,Yes
+0,1,0,1,1,1,1,1,31.11362034,m,black,no,Yes
+0,1,1,1,1,1,1,1,29.12153036,m,black,no,Yes
+1,1,1,1,0,0,1,0,18.25537813,f,White European,no,Yes
+0,0,0,0,0,0,0,0,30.488441,m,middle eastern,no,No
+1,1,0,0,0,0,0,1,44.38044644,m,White European,no,Yes
+1,1,1,1,1,1,1,1,28.97897254,m,middle eastern,yes,Yes
+1,1,1,1,1,1,1,1,52.9680159,m,black,no,Yes
+0,0,0,0,1,0,1,1,12.03765423,f,asian,no,Yes
+1,1,0,1,0,0,1,1,29.37295411,m,black,yes,Yes
+1,0,0,1,1,0,1,1,49.34355056,f,middle eastern,no,Yes
+1,1,0,1,1,1,1,1,23.99403586,f,asian,no,Yes
+1,0,0,0,1,1,1,0,23.04771671,m,asian,no,Yes
+1,0,0,0,0,1,1,0,39.31612047,m,asian,no,Yes
+1,0,1,1,1,1,1,1,19.52180736,m,asian,no,Yes
+1,1,1,1,1,1,1,1,10.0682642,m,middle eastern,no,Yes
+0,1,0,1,1,0,0,0,42.56842778,m,asian,yes,Yes
+0,0,0,1,1,1,1,1,28.40672129,m,asian,yes,Yes
+0,0,0,0,0,0,1,0,25.17584032,f,White European,no,No
+1,1,1,1,0,0,1,1,44.95667763,m,asian,no,Yes
+0,0,0,0,0,0,0,0,12.49217538,m,White European,yes,No
+1,0,0,0,1,1,1,1,72.40248841,m,White European,yes,Yes
+0,0,0,0,0,1,1,1,29.98825247,m,White European,yes,No
+1,1,1,1,1,1,1,1,48.53059445,f,middle eastern,no,Yes
+0,1,1,1,1,1,0,1,23.30157997,f,middle eastern,no,Yes
+1,0,1,1,1,1,0,1,44.21478178,f,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,17.97550298,f,middle eastern,no,No
+1,1,1,0,1,1,0,0,41.54513901,m,White European,yes,Yes
+0,1,1,1,1,0,1,1,26.26550774,m,south asian,yes,Yes
+1,0,0,1,1,1,0,0,27.79462444,m,asian,no,Yes
+1,1,1,0,0,1,1,1,29.54503981,m,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,23.22476695,m,White European,yes,Yes
+0,0,0,0,1,1,0,0,38.69865911,m,asian,no,No
+1,1,0,1,1,1,1,1,33.15865325,m,black,no,Yes
+0,0,0,0,1,0,1,1,18.54376162,f,asian,no,Yes
+0,0,0,1,1,1,1,1,14.08733098,m,White European,no,Yes
+1,1,1,1,1,1,1,1,18.76366889,m,asian,no,Yes
+1,1,1,1,1,1,1,1,30.34815679,m,White European,no,Yes
+1,1,1,1,1,1,1,1,30.05008465,m,White European,no,Yes
+1,0,1,1,1,0,1,1,19.76478629,m,White European,no,Yes
+0,1,0,0,0,0,0,1,12.84895746,m,middle eastern,no,No
+1,1,0,0,1,1,1,0,21.43814876,m,White European,yes,Yes
+1,0,0,0,0,1,1,0,25.49186707,m,White European,yes,No
+1,1,1,0,0,1,1,0,27.0273135,f,mixed,no,Yes
+1,1,1,1,1,1,1,1,20.26061777,m,White European,yes,Yes
+1,0,1,1,0,1,0,0,49.78834545,f,middle eastern,no,Yes
+1,0,1,1,0,1,0,0,40.57666928,m,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,15.25926213,m,middle eastern,no,No
+0,0,1,1,1,1,1,1,22.3768334,f,asian,no,Yes
+0,0,0,0,1,1,1,0,18.59984127,m,asian,yes,No
+0,1,0,0,1,1,1,1,35.45904379,m,asian,no,Yes
+0,0,0,1,1,1,1,1,70.45727239,m,Latino,no,Yes
+1,0,1,1,0,1,1,1,64.7846482,m,White European,no,Yes
+0,0,0,0,0,0,0,0,19.41178926,m,mixed,no,No
+1,1,0,1,0,0,1,0,29.29194323,m,black,no,Yes
+1,0,1,0,0,1,0,0,25.1984157,m,asian,no,No
+1,0,1,0,0,1,0,0,27.79857497,m,asian,no,No
+1,1,0,1,1,1,1,0,35.23840537,m,asian,yes,Yes
+1,1,0,0,0,1,1,0,10.5634741,m,asian,no,Yes
+0,1,0,1,1,1,1,1,21.01101122,m,middle eastern,no,Yes
+0,1,0,1,1,1,0,1,42.48618909,m,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,42.75701238,m,White European,yes,No
+1,1,1,1,1,1,1,1,17.58923301,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,19.46567705,m,White European,no,Yes
+1,1,1,1,1,1,1,1,17.73800278,m,White European,no,Yes
+1,1,0,1,1,1,1,0,26.73184805,f,White European,yes,Yes
+1,1,1,1,1,1,1,0,24.3593635,f,White European,yes,Yes
+1,1,0,0,1,1,1,1,29.4190243,m,White European,no,Yes
+1,1,0,0,0,0,0,0,18.18918108,f,Hispanic,no,No
+0,0,0,0,1,1,1,0,21.16633943,m,Hispanic,yes,Yes
+0,0,1,1,1,1,1,0,24.88092657,m,south asian,no,Yes
+1,1,0,0,0,0,1,0,17.38496811,m,White European,yes,Yes
+1,1,0,0,0,1,1,0,20.84357913,m,White European,yes,Yes
+0,0,0,0,0,0,1,0,13.05526927,f,asian,no,No
+1,0,0,1,1,0,1,0,52.29804788,m,middle eastern,no,Yes
+0,0,0,1,0,1,1,0,14.20305959,m,middle eastern,no,Yes
+1,1,0,0,0,1,1,1,33.1608928,f,asian,yes,Yes
+0,1,0,0,1,1,1,0,23.03114875,f,Hispanic,yes,Yes
+0,0,0,0,0,0,0,0,31.91563805,m,White European,yes,No
+1,0,0,0,1,0,0,0,60.77273685,m,White European,no,No
+1,1,1,1,0,1,1,1,23.20204756,m,middle eastern,yes,Yes
+1,1,1,1,1,1,1,0,23.68015292,m,Hispanic,yes,Yes
+1,1,1,1,0,1,1,1,30.09420007,f,Hispanic,no,Yes
+1,1,0,1,1,0,1,1,18.25856763,f,White European,no,Yes
+1,0,1,1,1,1,1,1,30.86833336,m,Others,no,Yes
+1,1,0,1,1,0,1,1,19.44791381,m,asian,no,Yes
+1,1,1,1,1,1,1,0,30.93069813,m,asian,no,Yes
+1,0,1,1,0,1,1,1,31.30726252,m,White European,no,Yes
+0,0,0,0,0,0,0,1,36.56146232,m,asian,no,No
+0,0,0,0,1,1,1,0,31.22291175,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,23.2182734,m,asian,yes,Yes
+1,1,0,0,1,1,1,0,26.54786312,m,White European,no,Yes
+1,1,1,0,1,0,0,0,24.95433283,m,south asian,yes,Yes
+0,0,0,0,1,1,1,1,42.68425606,m,White European,no,Yes
+1,0,0,0,1,1,1,0,13.56535916,f,asian,yes,Yes
+1,1,1,1,1,1,1,1,12.86969457,m,asian,no,Yes
+0,0,0,0,0,0,0,0,15.37977429,f,asian,no,No
+0,0,1,0,1,1,1,1,42.89939647,m,asian,no,Yes
+0,0,1,0,1,0,1,1,31.93818694,m,asian,no,Yes
+0,0,1,1,1,1,1,0,23.82980847,m,White European,yes,Yes
+0,1,0,1,0,1,1,1,12.82718298,m,middle eastern,yes,Yes
+1,1,0,1,0,0,0,1,68.00507033,m,White European,yes,Yes
+0,0,0,0,0,0,0,0,31.6665334,m,asian,no,No
+0,0,0,0,0,0,0,0,24.21829393,m,asian,no,No
+0,1,0,0,1,1,1,0,36.38011773,m,asian,no,Yes
+1,1,1,1,1,1,1,1,18.06833783,f,asian,no,Yes
+1,1,1,1,1,1,1,1,20.02135637,m,White European,yes,Yes
+1,1,0,0,1,0,1,0,39.62488238,m,White European,yes,Yes
+1,1,0,0,0,1,1,0,27.62361603,m,White European,yes,Yes
+1,0,0,1,0,1,0,0,17.02472387,f,middle eastern,no,No
+0,1,1,1,1,1,0,1,27.02340181,m,black,yes,Yes
+0,0,0,0,0,0,0,0,21.46375329,f,Hispanic,no,No
+1,0,1,1,1,0,1,0,31.2896551,m,asian,no,Yes
+0,0,1,1,1,1,1,1,12.83857004,m,asian,no,Yes
+1,1,1,1,1,0,0,0,15.8295188,f,White European,yes,Yes
+0,1,1,1,1,0,1,0,25.05091735,m,asian,no,Yes
+1,0,0,0,0,1,1,1,15.29881605,f,White European,yes,Yes
+0,1,1,1,0,0,0,1,23.35035887,m,asian,no,Yes
+0,1,0,1,0,0,0,0,16.77398843,m,asian,no,No
+0,0,0,1,0,0,0,1,41.49551501,m,asian,no,No
+0,0,0,1,0,0,0,0,24.84610005,m,asian,no,No
+1,1,1,1,1,1,1,1,28.82518176,m,White European,no,Yes
+1,0,1,1,1,1,1,1,23.42443608,m,Latino,no,Yes
+1,1,1,1,1,1,1,1,21.26872388,m,White European,yes,Yes
+1,1,0,0,1,1,0,1,39.98092074,f,White European,no,Yes
+1,1,1,1,1,1,1,1,29.68072364,m,White European,no,Yes
+1,1,1,1,1,0,1,1,16.33592748,m,asian,no,Yes
+0,1,0,0,1,1,1,1,14.24864659,m,asian,no,Yes
+0,0,0,0,1,1,1,1,39.29122616,m,asian,no,Yes
+1,1,0,0,1,0,1,1,40.5312181,m,black,yes,Yes
+1,1,0,0,1,0,1,1,32.24661514,m,south asian,no,Yes
+0,1,0,0,0,1,1,0,43.20086314,m,asian,yes,Yes
+0,0,0,0,0,0,0,0,26.8411853,f,middle eastern,yes,No
+0,0,0,0,0,0,0,0,53.679868,f,middle eastern,yes,No
+0,0,0,0,0,0,0,0,13.82400342,f,middle eastern,yes,No
+0,0,0,0,0,0,0,0,20.50981094,m,asian,no,No
+1,0,1,1,1,1,0,1,17.19178706,m,asian,no,Yes
+0,0,1,1,0,0,0,0,19.2414331,m,asian,no,No
+1,1,1,1,1,1,1,1,32.1208691,m,black,yes,Yes
+1,1,0,0,1,1,1,0,31.90788624,m,asian,no,Yes
+1,1,0,1,1,1,1,0,12.52876169,m,asian,no,Yes
+1,1,1,1,1,1,1,1,16.16648629,m,White European,no,Yes
+0,0,0,0,0,0,0,0,28.44874139,f,asian,no,No
+0,0,0,1,1,1,1,0,29.6550994,m,black,yes,Yes
+1,1,1,0,1,1,1,1,49.18932273,m,asian,no,Yes
+1,0,1,1,1,0,0,0,27.02093489,f,Hispanic,no,Yes
+1,1,0,0,1,1,1,1,21.37635914,m,asian,no,Yes
+1,1,1,1,1,1,1,1,45.50121366,m,Latino,yes,Yes
+0,0,1,1,0,0,0,0,29.22416068,m,asian,no,No
+1,1,1,1,1,1,0,1,62.55643314,m,asian,no,Yes
+1,1,1,1,1,1,0,1,18.40592409,m,asian,no,Yes
+1,1,0,0,0,1,1,1,53.27325592,f,asian,yes,Yes
+1,1,0,1,0,1,1,0,24.123863,f,south asian,no,Yes
+1,1,1,1,1,1,1,1,24.53218093,m,south asian,no,Yes
+1,1,1,1,0,1,1,0,14.71882514,f,White European,no,Yes
+0,0,1,1,1,0,1,0,20.71728983,m,middle eastern,yes,Yes
+0,0,1,1,1,1,0,0,59.93790237,m,asian,no,Yes
+0,0,0,0,0,1,0,0,28.80726462,m,asian,no,No
+0,0,0,1,1,0,1,0,17.17781586,m,asian,no,Yes
+1,1,1,1,0,1,1,1,27.49343743,f,middle eastern,no,Yes
+1,0,0,1,1,1,1,0,26.86271615,m,asian,no,Yes
+0,0,0,1,0,0,1,0,13.7767075,m,asian,no,Yes
+1,0,0,0,0,0,1,0,22.08052022,f,south asian,no,No
+1,0,0,0,0,1,1,0,24.45652938,m,Hispanic,no,Yes
+1,1,1,1,0,1,1,1,17.45912374,m,black,yes,Yes
+0,0,0,0,0,0,0,0,24.12367143,m,White European,no,No
+0,0,0,0,0,1,0,0,55.31824746,m,White European,no,No
+0,0,0,0,0,1,1,0,42.33192443,f,middle eastern,no,No
+0,0,0,1,0,1,1,0,25.4680538,f,middle eastern,no,Yes
+1,1,0,0,1,1,0,1,35.35945091,m,White European,yes,Yes
+0,0,1,1,0,0,0,1,27.18027983,m,asian,no,Yes
+0,0,0,0,1,0,1,0,54.73967471,m,asian,yes,No
+1,0,0,0,0,1,0,1,18.08361893,m,White European,no,No
+1,1,1,1,1,0,1,1,31.19787597,m,asian,no,Yes
+1,1,0,0,0,0,1,1,27.99924973,m,asian,no,Yes
+1,1,0,1,1,1,1,0,20.37347736,m,asian,no,Yes
+0,0,0,0,0,1,1,1,21.9272415,m,Latino,no,Yes
+1,1,0,1,1,1,1,1,23.64302675,m,White European,no,Yes
+0,0,0,0,0,0,0,0,18.85460181,f,White European,no,No
+0,1,1,0,0,1,0,0,37.50376579,m,black,no,Yes
+1,0,0,0,1,1,0,1,19.14520463,m,White European,no,Yes
+0,0,0,0,1,1,1,0,23.0040436,m,White European,yes,Yes
+1,0,0,1,1,1,1,0,35.04822411,f,south asian,no,Yes
+1,1,1,1,1,1,1,1,29.62630088,m,White European,no,Yes
+0,1,0,0,0,0,0,0,29.32415568,m,middle eastern,no,No
+1,1,0,1,1,1,1,0,16.00881089,f,south asian,no,Yes
+1,1,1,1,1,1,0,1,27.21368809,f,south asian,no,Yes
+0,0,1,1,1,1,1,1,33.71533635,m,asian,no,Yes
+0,0,1,1,1,1,1,1,26.30897678,m,asian,no,Yes
+0,0,0,0,0,0,0,0,20.35515932,m,White European,no,No
+1,0,1,0,1,1,0,1,17.6883325,m,asian,no,Yes
+0,0,0,1,0,0,1,1,27.88425018,m,White European,yes,Yes
+1,1,1,1,1,1,1,0,71.3560697,m,south asian,no,Yes
+1,1,1,1,1,1,1,1,15.70727497,m,White European,no,Yes
+0,0,0,0,1,1,1,1,63.75155625,m,Others,no,Yes
+1,1,1,0,0,1,1,0,21.48013904,m,White European,no,Yes
+0,1,0,0,0,0,0,0,25.99219163,m,asian,no,No
+1,1,0,0,0,0,0,1,47.73008947,m,asian,no,Yes
+0,0,0,0,0,0,0,0,15.36731189,m,White European,no,No
+0,1,1,1,1,1,1,0,45.61232401,m,asian,no,Yes
+1,0,0,0,1,1,1,1,46.36992639,f,asian,no,Yes
+0,0,0,0,0,0,1,1,18.878002,f,asian,no,No
+1,1,0,0,1,1,1,1,36.71172301,m,Others,yes,Yes
+1,0,0,1,1,1,0,0,22.61521304,m,asian,no,Yes
+0,0,0,1,0,1,1,1,37.51947298,m,asian,no,Yes
+0,0,1,0,1,0,0,1,25.11012862,m,asian,no,No
+0,0,0,1,1,0,0,1,22.91816929,m,asian,no,No
+1,1,0,1,0,0,1,1,23.1327722,m,White European,no,Yes
+1,1,1,1,0,1,1,0,42.06175986,f,White European,no,Yes
+1,0,0,0,0,1,1,1,26.22617053,m,asian,no,Yes
+1,0,0,0,0,0,1,0,19.72333156,m,asian,no,Yes
+0,0,1,1,0,0,1,0,19.33816764,m,south asian,yes,Yes
+0,0,0,0,0,0,1,0,26.0779911,m,south asian,yes,No
+1,1,0,1,1,1,1,1,18.50849917,m,White European,no,Yes
+0,1,0,0,0,0,1,0,27.52895152,f,asian,yes,No
+1,1,1,1,0,1,1,1,20.09622766,m,middle eastern,no,Yes
+1,1,1,1,0,1,0,1,62.61132166,m,White European,no,Yes
+1,0,0,0,0,0,1,1,24.12553692,f,asian,no,Yes
+1,0,0,0,0,0,1,0,23.80967704,m,asian,no,No
+1,1,0,0,0,1,0,0,27.17141621,m,south asian,yes,Yes
+0,0,1,1,0,0,1,1,14.64496199,m,asian,no,Yes
+1,1,0,1,0,1,1,0,18.1293108,f,White European,no,Yes
+1,1,0,1,0,1,1,0,20.39207733,f,White European,no,Yes
+1,1,0,1,0,1,1,0,35.79293299,f,White European,no,Yes
+1,1,0,0,1,1,1,1,41.36860529,f,Others,yes,Yes
+1,0,0,0,1,0,1,1,38.40680094,f,asian,no,Yes
+1,1,0,1,1,0,1,0,31.70883972,m,middle eastern,no,Yes
+1,1,0,1,1,1,1,0,29.36037187,m,middle eastern,no,Yes
+1,0,0,0,1,0,1,0,44.77318337,m,White European,no,No
+0,0,0,0,0,0,0,0,33.94300046,m,middle eastern,no,No
+1,1,1,1,1,1,1,1,26.1659676,m,Pacifica,no,Yes
+1,1,0,0,1,1,1,0,14.27922507,m,White European,yes,Yes
+1,0,1,1,1,1,0,1,27.60839705,m,asian,no,Yes
+0,0,1,1,1,1,1,1,12.14264103,f,White European,no,Yes
+1,0,0,0,1,1,1,0,32.20423469,f,asian,yes,Yes
+1,1,0,0,1,1,1,0,18.84329479,m,asian,yes,Yes
+1,0,0,1,1,1,1,1,21.32558768,m,asian,no,Yes
+0,0,0,0,0,0,0,0,25.81976021,m,asian,no,No
+1,0,1,1,1,1,0,1,41.84811585,m,middle eastern,no,Yes
+1,0,1,0,0,1,0,1,14.40240138,m,asian,no,Yes
+1,0,0,0,0,1,0,0,24.22036485,m,asian,no,No
+1,0,0,0,0,1,0,0,21.56342103,m,asian,no,No
+0,0,0,1,0,0,1,0,47.96276884,f,middle eastern,yes,Yes
+0,0,0,0,0,0,0,0,12.65425437,f,middle eastern,yes,No
+0,1,0,0,0,0,1,0,18.92173852,m,middle eastern,no,No
+1,1,1,1,1,1,1,0,32.61509975,m,asian,no,Yes
+0,0,1,0,0,1,1,1,26.92375026,m,Hispanic,no,Yes
+1,1,0,1,1,1,1,0,39.38579107,m,Hispanic,no,Yes
+0,0,1,1,1,0,1,1,16.50360662,m,White European,yes,Yes
+0,0,0,0,0,0,1,0,15.95961571,m,asian,no,No
+1,1,1,1,1,1,1,1,40.0526163,m,White European,yes,Yes
+1,1,0,1,1,0,1,0,48.11471037,m,White European,no,Yes
+1,1,0,1,0,0,1,0,28.70467543,m,White European,no,Yes
+1,1,1,1,0,1,1,1,28.30261772,f,White European,yes,Yes
+1,0,0,0,0,0,0,0,27.22430953,m,asian,no,No
+1,0,1,0,0,1,0,0,35.5579975,m,asian,no,No
+1,0,1,1,0,0,0,0,24.59416695,m,asian,no,No
+0,0,1,1,0,1,0,0,23.988549,m,asian,no,Yes
+0,0,1,1,0,0,0,0,33.25859799,m,asian,no,No
+1,0,1,1,1,1,1,1,31.74017364,f,White European,no,Yes
+0,0,1,1,1,0,1,1,27.26622279,m,White European,yes,Yes
+1,1,0,0,0,1,0,0,17.10192393,m,White European,yes,Yes
+0,0,0,0,0,0,0,0,17.61761346,f,middle eastern,yes,No
+1,1,1,1,1,1,1,1,12.76969932,f,south asian,yes,Yes
+1,1,1,1,1,1,1,1,28.64516606,m,White European,no,Yes
+1,0,0,0,1,1,1,1,20.63988618,f,asian,yes,Yes
+1,0,0,0,0,1,1,1,26.33027826,f,asian,no,Yes
+1,1,1,1,1,1,1,0,28.96044414,m,middle eastern,no,Yes
+1,1,0,1,0,1,1,1,16.51915492,m,Hispanic,no,Yes
+1,1,1,1,1,1,0,0,38.92086202,m,Pacifica,no,Yes
+1,1,1,1,1,1,1,0,12.88899428,f,Others,no,Yes
+1,0,0,0,1,1,1,1,31.67681913,m,Hispanic,no,Yes
+0,0,0,0,0,1,0,0,26.55083095,f,Hispanic,no,No
+1,1,1,1,1,1,1,1,16.80623143,m,black,no,Yes
+1,1,1,1,1,1,1,1,22.65097981,m,black,no,Yes
+1,0,0,1,1,0,1,0,14.91975497,m,White European,yes,Yes
+0,0,0,0,0,0,1,0,43.52066788,m,White European,yes,No
+0,1,1,1,1,1,0,1,18.55221155,f,asian,yes,Yes
+1,1,1,1,1,1,1,1,14.86917251,m,Native Indian,yes,Yes
+0,0,0,1,0,1,1,0,19.25641523,f,White European,no,No
+1,1,1,1,1,0,1,1,22.3696796,m,black,no,Yes
+1,0,0,1,1,1,0,0,33.01259387,m,White European,yes,Yes
+1,0,0,0,1,1,1,1,24.15741484,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,67.41174403,m,White European,no,Yes
+1,1,0,0,1,0,0,0,21.55418788,m,White European,yes,Yes
+0,1,1,1,1,1,1,0,24.44399463,m,White European,no,Yes
+1,1,0,1,1,1,0,1,13.87320354,m,White European,no,Yes
+1,0,1,0,1,0,0,0,25.30884824,m,White European,no,No
+0,1,1,0,0,0,0,1,20.462625,m,south asian,no,Yes
+0,1,0,1,0,1,0,0,11.79157315,m,asian,no,Yes
+0,1,0,1,0,1,0,0,18.58263362,m,asian,no,Yes
+0,0,0,0,1,0,0,0,21.72161031,m,asian,no,No
+0,0,0,0,1,1,1,1,16.86475024,f,asian,no,Yes
+0,0,0,0,1,1,1,1,21.18039464,m,asian,no,Yes
+1,1,1,1,0,1,1,0,28.39483372,f,White European,no,Yes
+1,0,0,0,0,0,0,0,49.43439359,f,south asian,no,No
+1,0,0,0,1,1,1,0,33.96043139,m,asian,no,Yes
+1,1,1,1,1,1,1,1,14.80201297,m,black,no,Yes
+1,0,1,0,0,0,0,0,24.32227986,m,asian,no,No
+1,0,1,0,0,0,0,0,24.04626135,m,asian,no,No
+1,1,0,0,0,1,1,0,16.49474382,f,White European,no,Yes
+1,1,1,1,1,1,1,1,37.84456589,f,Latino,no,Yes
+1,1,1,0,1,1,1,1,27.67536663,m,asian,no,Yes
+1,1,0,0,0,0,1,0,39.95680615,m,asian,yes,Yes
+0,0,1,1,1,0,0,1,24.95784588,m,middle eastern,no,Yes
+1,1,1,1,0,0,1,1,69.18521211,m,black,yes,Yes
+1,0,1,1,1,1,1,0,12.68882004,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,28.75761551,f,White European,no,Yes
+0,0,0,1,1,1,0,1,17.20033928,m,middle eastern,no,Yes
+0,0,0,0,1,1,1,0,33.49453904,f,asian,no,Yes
+1,1,1,0,1,1,1,1,23.75933805,f,asian,no,Yes
+1,1,1,0,1,1,1,1,32.73950568,f,asian,no,Yes
+1,1,0,1,1,1,1,1,29.24703151,m,asian,no,Yes
+0,0,0,0,0,0,0,0,29.1090159,f,middle eastern,no,No
+1,1,1,1,1,0,1,1,14.78618617,f,middle eastern,no,Yes
+0,0,0,0,0,1,0,1,29.8900979,f,middle eastern,yes,No
+1,1,1,1,1,1,1,1,19.2906371,m,Hispanic,yes,Yes
+1,1,1,1,1,1,1,1,28.49001339,m,Hispanic,yes,Yes
+0,0,0,0,0,0,0,1,31.07938808,m,Hispanic,no,No
+1,0,0,0,0,0,0,0,25.15268641,m,Hispanic,no,No
+1,1,0,1,1,1,0,0,25.55980006,m,Others,no,Yes
+1,1,0,1,1,1,1,0,19.83386928,m,Others,no,Yes
+0,0,0,0,0,1,0,0,25.62275359,f,White European,no,No
+1,1,0,0,0,0,1,0,39.88924895,m,Hispanic,no,Yes
+1,1,0,0,1,0,1,0,18.45070775,m,middle eastern,yes,Yes
+1,1,0,0,0,0,1,0,25.18548225,m,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,15.49881136,f,black,no,Yes
+1,1,0,1,0,1,1,1,28.63366323,m,White European,no,Yes
+0,0,0,0,0,0,0,0,25.25364327,f,White European,no,No
+0,0,0,1,1,1,1,1,23.73521,m,asian,no,Yes
+0,0,0,0,1,1,1,0,39.82562563,m,asian,yes,Yes
+1,1,1,1,1,1,1,1,27.63221244,m,White European,yes,Yes
+0,1,1,1,0,0,1,0,27.88412337,f,middle eastern,yes,Yes
+1,1,0,0,0,1,0,1,64.49177551,m,White European,no,Yes
+0,0,1,0,0,1,0,0,29.19566621,f,south asian,no,No
+1,0,0,0,1,1,1,0,59.62775131,m,asian,no,Yes
+1,1,0,1,1,1,1,1,26.13549399,m,White European,yes,Yes
+0,1,0,1,1,0,1,0,30.76696105,m,White European,yes,Yes
+1,0,1,1,1,1,0,1,33.22188797,m,White European,yes,Yes
+1,1,0,1,0,0,1,0,28.30806267,m,White European,no,Yes
+1,1,0,1,0,1,1,1,16.91663828,m,White European,no,Yes
+0,0,0,0,0,1,1,0,20.35027844,f,White European,no,No
+1,1,1,1,1,1,1,1,45.23752251,m,White European,yes,Yes
+1,0,1,1,0,1,1,0,25.94274099,f,White European,no,Yes
+1,0,0,0,0,0,1,0,27.96351288,m,asian,no,Yes
+0,0,0,1,1,1,1,0,46.24912105,m,asian,no,Yes
+0,0,0,0,0,0,0,1,14.23128228,f,black,no,No
+1,0,0,0,0,0,0,1,11.79083405,f,black,no,No
+1,1,1,1,1,1,1,1,55.88994948,m,White European,no,Yes
+1,1,1,0,0,1,1,0,25.93838143,m,black,yes,Yes
+1,1,0,0,1,0,0,1,23.6973814,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,15.95119764,f,White European,yes,Yes
+1,1,0,1,0,1,1,1,16.10917192,f,asian,no,Yes
+1,0,0,0,0,0,0,0,25.9729348,m,Hispanic,no,No
+1,0,0,0,0,0,1,0,57.85843038,m,White European,no,No
+0,1,0,0,0,0,0,1,24.75130724,m,White European,yes,No
+0,0,1,1,0,1,0,1,24.8442215,f,White European,yes,Yes
+0,1,1,1,1,0,1,1,23.51316509,f,White European,yes,Yes
+0,0,0,0,1,1,0,0,22.4782168,m,asian,yes,Yes
+1,0,1,0,1,1,0,0,28.39885554,m,White European,no,Yes
+1,0,1,1,1,1,0,0,19.33142065,m,White European,no,Yes
+1,0,1,0,1,1,0,0,44.13291635,m,White European,no,Yes
+1,1,1,1,0,1,1,0,27.70375139,f,White European,no,Yes
+0,0,1,1,0,1,1,0,13.89784984,m,White European,no,Yes
+1,1,1,1,1,1,1,1,10.95228869,m,Others,yes,Yes
+0,0,0,1,0,0,1,0,42.15462533,m,middle eastern,yes,No
+0,0,0,0,0,0,0,0,21.76023807,m,Pacifica,no,No
+0,0,1,1,1,1,1,1,21.17428599,m,White European,no,Yes
+1,0,0,0,1,1,1,0,27.20462751,m,asian,yes,Yes
+1,0,0,0,1,1,1,0,23.78138492,m,asian,yes,Yes
+0,0,1,1,1,1,1,1,31.45372689,f,White European,no,Yes
+0,0,1,1,0,1,0,1,50.28178664,m,Hispanic,no,Yes
+1,1,0,0,1,1,1,0,17.29337751,m,Others,no,Yes
+1,0,0,1,1,1,1,0,21.35559283,m,White European,yes,Yes
+1,1,0,0,0,1,0,0,27.18013388,m,asian,no,Yes
+1,0,0,0,0,1,0,1,29.31198078,m,asian,no,Yes
+0,0,0,0,0,0,1,0,54.80676402,f,Latino,no,No
+0,1,1,1,1,1,1,1,41.75294745,m,black,no,Yes
+0,0,0,0,0,0,0,1,54.55295512,f,black,no,No
+0,0,0,0,0,1,0,0,56.94291339,m,White European,yes,No
+1,1,0,1,1,1,1,0,14.3808953,m,White European,no,Yes
+1,1,1,1,1,1,1,0,13.89971779,m,Hispanic,no,Yes
+1,0,1,0,1,1,1,0,15.49096467,m,asian,no,Yes
+1,1,1,1,1,1,1,1,69.0322209,m,White European,no,Yes
+0,0,0,0,1,0,1,1,19.73541874,m,Hispanic,no,No
+0,0,0,1,0,0,1,1,37.48423402,m,Hispanic,no,No
+1,1,1,1,1,1,1,1,30.86535776,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,24.6096008,m,asian,no,Yes
+1,1,1,1,1,1,1,1,24.99099448,m,asian,no,Yes
+0,0,0,1,0,0,1,0,23.96639949,m,asian,no,No
+0,1,0,1,0,0,0,0,42.35750256,m,black,yes,Yes
+0,1,0,1,0,0,0,0,25.85706958,m,black,yes,Yes
+1,1,1,1,1,1,1,1,26.54569019,m,black,no,Yes
+0,1,0,0,1,1,1,1,18.5060405,m,White European,no,Yes
+0,1,0,0,0,0,1,1,52.05262676,m,mixed,no,Yes
+1,1,0,1,1,1,1,1,12.23744796,f,Pacifica,yes,Yes
+1,1,0,1,1,1,0,1,38.86414425,f,south asian,no,Yes
+0,0,1,1,1,0,1,1,30.52737617,m,asian,yes,Yes
+0,0,0,0,1,1,1,1,28.98353924,f,asian,no,Yes
+1,1,0,1,1,1,1,1,18.6681171,m,asian,no,Yes
+1,0,0,1,1,1,1,1,30.22623836,m,asian,no,Yes
+1,1,0,1,1,1,1,1,18.12602,m,asian,no,Yes
+1,1,0,1,1,1,1,1,42.09629473,m,asian,no,Yes
+1,1,1,1,1,1,1,1,24.52767093,m,asian,no,Yes
+1,1,1,1,0,1,1,0,24.92729016,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,23.35073121,f,Latino,no,Yes
+1,1,1,1,1,1,1,1,21.98276372,m,Latino,no,Yes
+1,1,0,0,1,1,1,0,37.65198552,m,White European,no,Yes
+1,1,1,1,1,1,1,1,13.44764893,f,White European,no,Yes
+1,0,0,0,0,0,1,0,53.78743071,f,White European,yes,No
+1,0,0,0,0,1,1,0,33.94529149,m,Hispanic,yes,Yes
+0,0,0,0,0,0,1,1,28.65883617,f,asian,no,No
+0,0,0,1,0,0,1,1,18.7139055,f,asian,no,Yes
+1,1,1,1,1,1,1,1,22.64481055,m,asian,no,Yes
+0,0,0,1,1,1,1,0,25.19521667,m,asian,no,Yes
+0,0,0,0,1,1,1,0,31.38962252,m,Others,yes,Yes
+1,0,0,1,1,0,0,0,22.77013398,m,asian,yes,Yes
+1,1,1,1,0,1,1,0,34.09807492,m,White European,yes,Yes
+1,0,1,0,1,1,1,0,16.1038529,m,White European,no,Yes
+1,0,0,0,0,0,0,0,31.45293115,f,middle eastern,no,No
+0,0,0,0,0,1,0,1,17.42385035,f,asian,no,No
+0,0,0,0,1,0,0,1,15.7291792,m,black,yes,No
+0,0,1,1,0,1,1,1,27.55458916,m,White European,yes,Yes
+0,0,0,0,1,0,0,1,35.31536559,m,middle eastern,no,Yes
+0,0,0,0,0,0,0,0,19.39516203,m,middle eastern,no,No
+1,0,1,1,0,1,1,0,22.24054605,f,asian,no,Yes
+0,0,0,1,0,1,1,0,27.00058499,f,asian,no,No
+0,0,1,1,1,1,0,0,29.09439056,f,asian,no,Yes
+0,0,1,1,1,1,0,0,25.85604329,f,asian,no,Yes
+0,1,0,0,1,1,1,1,38.053128,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,25.15887799,m,south asian,no,Yes
+0,0,1,1,0,0,0,0,25.05584845,m,asian,no,No
+0,0,1,1,0,0,0,1,19.92111561,m,asian,no,Yes
+0,0,1,1,0,1,0,0,22.71783533,m,asian,no,Yes
+1,0,1,1,1,0,1,0,47.50947766,f,asian,no,Yes
+0,0,0,0,0,0,0,0,36.62670705,m,White European,yes,No
+1,0,1,1,1,1,1,0,21.75388979,f,White European,no,Yes
+0,0,1,1,1,1,1,0,30.0080822,f,White European,no,Yes
+1,0,0,0,1,1,1,1,30.89414025,f,asian,no,Yes
+1,1,1,1,1,1,1,0,37.22073251,m,middle eastern,yes,Yes
+1,1,1,1,1,1,1,1,12.64242609,m,White European,no,Yes
+0,0,1,1,0,1,1,1,29.44305461,m,White European,yes,Yes
+0,0,1,1,1,1,1,0,16.50210964,f,asian,no,Yes
+1,1,1,1,1,1,1,0,48.45204622,m,asian,no,Yes
+0,0,0,0,0,0,0,0,71.68068207,m,asian,no,No
+1,0,0,1,1,1,1,0,23.82198722,f,White European,no,Yes
+1,0,0,0,1,0,1,1,62.61455773,m,asian,yes,Yes
+0,0,0,0,0,1,0,0,66.53320759,m,asian,no,No
+1,1,0,0,1,1,1,1,20.98300489,f,Others,no,Yes
+0,0,0,0,0,0,0,0,22.81436453,f,Others,yes,No
+1,1,1,1,1,0,1,1,28.38670182,m,Others,no,Yes
+1,1,1,1,1,1,1,0,20.53986415,m,White European,no,Yes
+1,1,0,1,1,1,1,0,22.15781669,m,White European,no,Yes
+1,1,0,0,0,0,1,0,12.95082394,f,middle eastern,no,Yes
+1,0,0,1,1,0,1,0,27.68259645,m,south asian,no,Yes
+1,1,1,1,1,1,1,0,28.61497378,m,Others,no,Yes
+1,0,1,1,1,1,1,1,13.14904621,f,asian,no,Yes
+1,0,1,0,1,1,1,1,16.84333863,f,asian,no,Yes
+0,0,0,0,0,0,0,1,29.43706753,m,asian,yes,No
+1,1,0,1,0,1,1,1,24.52725575,f,White European,no,Yes
+0,0,0,0,0,0,0,0,18.05636448,f,White European,no,No
+0,0,1,1,1,1,1,0,25.60377858,f,White European,no,Yes
+1,0,1,1,0,1,0,1,46.74226968,m,asian,yes,Yes
+1,1,1,1,1,0,1,1,18.84460222,f,White European,yes,Yes
+1,1,1,1,1,1,1,1,31.33228909,f,White European,yes,Yes
+0,1,0,0,1,1,0,1,21.75953085,m,White European,no,Yes
+1,0,0,0,1,1,1,1,28.04131476,m,White European,no,Yes
+1,1,0,1,1,1,1,1,52.33927013,m,White European,yes,Yes
+1,0,1,1,1,0,1,1,29.12475515,m,black,no,Yes
+1,1,1,1,1,1,1,1,17.85655211,m,White European,no,Yes
+0,0,0,0,0,0,1,0,22.1894618,m,White European,no,No
+1,0,1,0,1,0,1,1,23.99379689,m,White European,no,Yes
+1,1,1,1,1,1,1,1,24.45063324,m,asian,yes,Yes
+1,1,0,0,1,1,1,0,28.54050329,m,White European,no,Yes
+0,0,0,0,0,1,1,0,24.58667973,f,White European,no,No
+0,0,0,0,0,0,1,0,28.1411368,m,south asian,no,No
+1,1,1,1,1,1,1,1,18.3372629,m,Others,yes,Yes
+0,0,1,1,1,1,1,1,28.53744157,m,White European,no,Yes
+0,1,0,0,0,0,0,0,17.34310145,m,White European,no,No
+0,1,0,0,1,0,0,0,19.0113239,m,White European,no,No
+1,0,0,1,0,1,1,1,12.03510973,m,White European,yes,Yes
+1,0,1,1,1,1,1,0,32.58726065,m,White European,yes,Yes
+1,1,0,0,0,1,1,1,23.68543099,f,White European,yes,Yes
+0,0,1,0,0,0,0,0,41.19614552,f,White European,no,No
+0,0,0,0,0,0,0,0,35.67135635,f,White European,yes,No
+0,1,1,0,0,0,0,0,17.0144967,f,black,yes,No
+1,0,1,1,1,1,1,0,37.27590789,m,White European,yes,Yes
+0,0,0,0,0,0,0,0,23.95534317,m,asian,no,No
+0,0,0,0,0,1,0,1,19.74274144,f,middle eastern,no,No
+1,0,0,1,0,0,1,0,21.18868502,m,White European,yes,Yes
+1,1,0,1,0,1,1,1,25.11728489,m,middle eastern,no,Yes
+1,0,1,1,1,0,1,1,39.92918019,m,White European,yes,Yes
+0,0,1,1,1,0,1,1,13.06948226,m,White European,yes,Yes
+1,0,0,1,0,0,1,0,34.2908246,m,south asian,no,No
+1,1,1,1,1,0,1,0,22.28181212,f,White European,no,Yes
+1,1,1,1,1,1,1,1,54.78051233,m,White European,yes,Yes
+1,0,0,0,0,1,1,0,20.49104374,m,Others,no,Yes
+0,0,0,0,0,1,0,0,22.61154807,m,White European,yes,No
+0,0,0,0,0,0,0,0,24.00236983,m,asian,no,No
+0,1,0,1,0,1,1,0,24.91819746,m,asian,yes,Yes
+1,1,0,1,1,1,1,0,45.03945117,m,White European,no,Yes
+1,1,0,0,0,0,0,0,11.06017591,m,asian,no,No
+1,1,0,1,0,0,0,0,63.23366513,m,middle eastern,no,No
+1,1,0,0,0,0,0,0,18.90427553,m,middle eastern,no,No
+1,1,0,0,1,1,0,1,35.45799034,m,White European,no,Yes
+1,1,1,1,1,1,1,1,62.02633694,m,Pacifica,no,Yes
+1,1,0,0,0,1,1,1,13.38282021,m,White European,yes,Yes
+0,0,0,0,0,0,1,0,23.2418793,m,White European,yes,No
+0,0,0,0,0,0,0,1,29.82519294,m,White European,yes,No
+0,0,0,0,0,0,0,1,11.35116102,f,White European,no,No
+1,1,1,1,1,1,1,1,28.33023531,m,south asian,no,Yes
+1,1,0,1,1,1,1,1,12.94801424,m,White European,no,Yes
+0,0,0,1,1,1,1,1,17.91973945,f,asian,no,Yes
+0,0,0,0,1,0,0,0,22.88957212,f,White European,no,No
+0,0,1,1,1,1,1,0,13.1545696,f,middle eastern,no,Yes
+1,1,0,1,0,1,1,0,24.2634694,m,White European,no,Yes
+1,1,0,1,1,0,1,1,46.57007587,m,middle eastern,no,Yes
+0,0,0,0,0,1,0,0,17.90321284,m,asian,no,No
+1,1,1,1,1,1,0,1,21.75123467,m,asian,no,Yes
+1,0,0,0,1,1,0,0,20.90950447,m,asian,no,Yes
+1,0,0,0,0,0,0,0,18.99191402,m,Hispanic,no,No
+1,1,1,1,1,1,1,1,50.53524958,f,middle eastern,yes,Yes
+0,0,0,0,0,0,0,0,34.88603695,m,asian,no,No
+1,1,1,0,1,1,1,0,18.4379935,m,Pacifica,no,Yes
+0,0,0,0,0,0,0,0,28.46828198,f,middle eastern,no,No
+0,0,1,0,1,1,1,1,20.4634476,f,asian,no,Yes
+0,1,1,1,1,1,1,1,17.2001964,f,White European,no,Yes
+1,1,1,1,1,1,1,0,18.4241769,m,White European,no,Yes
+1,1,1,1,0,1,1,0,21.0231266,f,White European,no,Yes
+0,0,0,0,0,0,0,0,27.57733856,m,middle eastern,no,No
+1,0,1,1,1,1,1,0,28.42463843,m,middle eastern,no,Yes
+1,1,0,1,1,1,1,1,44.10109235,m,Latino,yes,Yes
+1,0,0,0,1,1,1,0,28.95224942,m,asian,no,Yes
+0,0,0,0,1,1,1,0,26.86995049,f,Latino,no,Yes
+1,0,1,1,1,1,1,1,19.74198448,m,asian,yes,Yes
+1,1,0,0,1,1,1,1,23.43507261,m,south asian,no,Yes
+0,0,0,0,0,0,0,0,30.67846275,f,middle eastern,yes,No
+1,1,1,1,1,1,0,1,23.89542479,f,White European,no,Yes
+1,1,1,1,1,1,1,1,14.45454475,m,White European,no,Yes
+1,0,0,0,0,0,1,1,62.92074643,m,White European,no,No
+0,0,1,1,1,1,1,0,18.34957017,m,White European,no,Yes
+0,0,1,1,1,1,1,0,29.277243,m,White European,yes,Yes
+1,1,1,1,1,0,1,1,16.28524309,m,south asian,no,Yes
+0,0,0,1,0,0,1,0,21.6019814,m,south asian,no,No
+1,1,0,0,1,0,1,1,19.97847816,m,White European,no,Yes
+1,1,1,1,1,1,1,1,29.27161357,f,middle eastern,no,Yes
+0,0,1,0,1,1,1,1,43.62625747,f,asian,no,Yes
+0,0,1,1,1,1,1,1,28.10136823,m,White European,yes,Yes
+1,0,1,0,0,0,1,1,20.98186716,m,asian,no,Yes
+1,1,0,1,1,1,1,1,15.09052497,m,White European,no,Yes
+0,0,1,1,1,1,1,1,19.4801396,m,White European,yes,Yes
+0,0,0,0,0,0,1,0,30.70537622,f,asian,no,No
+0,0,1,1,1,0,1,0,25.71545925,m,White European,yes,Yes
+0,0,0,0,0,0,0,0,53.89137595,f,asian,no,No
+1,1,1,1,1,1,1,1,19.13036361,m,Others,no,Yes
+1,1,0,1,1,1,1,1,51.06141566,f,asian,no,Yes
+1,0,0,0,0,1,1,0,27.32150965,f,Others,no,Yes
+1,0,1,1,1,1,1,0,55.27876787,m,White European,no,Yes
+0,1,1,1,0,1,1,1,44.87586807,m,Hispanic,no,Yes
+0,1,0,0,0,0,1,1,54.09464439,m,White European,yes,Yes
+1,0,1,1,1,1,1,1,27.79945741,m,White European,no,Yes
+0,0,1,0,1,1,1,1,53.3231657,f,asian,no,Yes
+1,1,1,1,1,1,1,1,22.42243059,m,asian,no,Yes
+1,1,1,1,0,1,1,0,18.00918051,m,middle eastern,yes,Yes
+0,0,1,1,0,0,1,0,32.16281477,f,asian,yes,Yes
+1,1,1,1,1,1,1,1,17.89826171,m,White European,no,Yes
+0,0,0,0,0,0,1,1,16.69477428,m,White European,no,No
+0,0,0,0,0,0,1,0,14.83218125,m,White European,yes,No
+0,0,1,1,1,1,1,1,15.12771801,m,White European,yes,Yes
+1,0,0,0,0,0,0,0,38.52697981,m,White European,yes,No
+0,0,0,1,1,0,1,1,31.09996355,m,asian,no,Yes
+1,1,1,0,1,0,1,0,58.41167865,m,Others,no,Yes
+1,0,0,0,0,0,1,1,59.60787077,f,White European,yes,Yes
+1,0,0,0,0,1,1,0,36.82751862,f,White European,no,Yes
+1,1,0,1,1,1,1,0,17.82050033,m,asian,yes,Yes
+1,0,0,0,0,1,1,0,21.62956024,m,asian,no,No
+1,1,1,1,1,1,1,0,16.30397208,m,mixed,no,Yes
+1,1,1,1,0,1,1,0,24.36141607,f,White European,no,Yes
+0,0,1,0,0,1,1,1,42.08490685,f,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,17.66929077,f,middle eastern,yes,Yes
+1,0,0,0,0,0,1,0,18.24255728,m,White European,no,No
+0,0,0,0,1,0,1,0,19.24147315,m,Others,yes,Yes
+1,1,0,1,1,1,1,1,32.17009804,f,south asian,no,Yes
+1,1,0,1,1,1,1,0,27.57733856,f,south asian,no,Yes
+1,0,0,1,0,1,1,0,28.42463843,f,asian,no,Yes
+1,0,0,0,1,1,1,1,44.10109235,f,asian,no,Yes
+1,0,1,1,1,1,1,1,28.95224942,m,black,yes,Yes
+0,0,0,0,0,0,0,0,26.86995049,f,black,no,No
+1,1,0,0,1,1,1,0,19.74198448,m,White European,no,Yes
+1,1,0,0,1,1,1,0,23.43507261,m,White European,no,Yes
+1,1,0,0,1,1,1,0,30.67846275,m,White European,no,Yes
+1,1,1,1,1,1,1,0,23.89542479,m,middle eastern,no,Yes
+1,1,1,1,0,1,1,0,14.45454475,f,White European,no,Yes
+0,0,0,0,0,0,1,0,62.92074643,m,White European,no,No
+1,1,1,1,0,1,0,0,18.34957017,m,White European,yes,Yes
+1,0,1,1,1,1,1,1,29.277243,m,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,16.28524309,m,asian,no,Yes
+0,0,0,0,0,0,0,0,21.6019814,m,asian,no,No
+0,0,0,0,0,0,1,0,19.97847816,f,middle eastern,no,No
+1,0,0,0,1,0,1,1,29.27161357,m,White European,no,Yes
+1,1,0,0,0,1,0,0,43.62625747,m,middle eastern,no,No
+1,1,1,1,1,1,1,1,28.10136823,m,middle eastern,no,Yes
+1,0,0,0,1,1,1,1,20.98186716,f,asian,no,Yes
+0,0,0,1,0,1,1,1,15.09052497,m,asian,no,Yes
+0,0,1,1,0,0,0,0,19.4801396,m,White European,no,No
+0,0,0,0,0,1,1,0,30.70537622,f,middle eastern,no,No
+1,1,0,0,0,0,1,0,25.71545925,f,White European,no,Yes
+0,0,0,0,0,0,0,1,53.89137595,f,middle eastern,no,No
+0,0,0,0,0,0,0,0,19.13036361,m,White European,no,No
+1,0,0,0,0,0,1,0,51.06141566,f,asian,no,No
+0,0,0,0,0,0,1,0,27.32150965,m,middle eastern,no,No
+1,1,1,1,1,1,1,1,55.27876787,m,middle eastern,no,Yes
+0,0,1,1,1,0,1,1,44.87586807,m,White European,yes,Yes
+0,0,1,1,1,0,0,1,54.09464439,m,asian,no,Yes
+1,1,1,1,1,1,1,1,27.79945741,m,asian,no,Yes
+1,1,1,1,1,1,1,1,53.3231657,f,Hispanic,no,Yes
+0,0,0,1,0,0,0,0,22.42243059,f,middle eastern,yes,No
+0,0,0,1,0,0,0,0,18.00918051,f,middle eastern,yes,No
+0,0,0,1,0,0,0,0,32.16281477,f,middle eastern,yes,No
+1,1,1,1,1,1,1,1,17.89826171,m,White European,no,Yes
+1,0,0,0,1,1,1,1,16.69477428,m,White European,no,Yes
+0,0,0,0,0,0,0,0,14.83218125,m,middle eastern,no,No
+1,0,1,1,0,1,1,0,15.12771801,m,White European,no,Yes
+1,1,0,0,0,0,1,1,38.52697981,m,middle eastern,no,Yes
+0,1,0,0,1,0,0,0,31.09996355,m,middle eastern,no,No
+1,1,1,1,1,1,1,1,58.41167865,m,Latino,no,Yes
+0,1,0,0,1,1,0,0,59.60787077,m,White European,no,Yes
+0,0,1,1,1,1,1,1,36.82751862,m,Hispanic,no,Yes
+0,0,0,0,0,0,1,0,17.82050033,m,middle eastern,yes,No
+0,0,0,0,0,0,1,0,21.62956024,m,middle eastern,yes,No
+1,0,0,0,0,1,1,0,16.30397208,m,middle eastern,yes,Yes
+1,1,1,1,1,1,1,0,24.36141607,m,Hispanic,no,Yes
+0,0,0,0,0,1,1,1,42.08490685,m,asian,no,Yes
+0,0,0,0,0,0,0,0,17.66929077,m,asian,yes,No
+1,1,1,0,1,0,1,0,18.24255728,m,asian,yes,Yes
+1,1,0,1,1,0,1,1,19.24147315,m,black,yes,Yes
+0,0,0,1,1,1,0,1,32.17009804,m,asian,no,Yes
+0,1,0,0,0,1,0,0,27.57733856,f,White European,yes,No
+0,0,0,0,0,0,0,0,28.42463843,f,White European,yes,No
+1,1,0,0,1,1,1,0,44.10109235,m,asian,no,Yes
+0,0,1,1,1,1,1,0,28.95224942,f,Others,no,Yes
+1,1,1,1,1,1,1,1,26.86995049,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,19.74198448,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,23.43507261,m,White European,no,Yes
+1,1,0,1,1,1,1,1,30.67846275,f,middle eastern,no,Yes
+1,1,1,1,1,1,0,1,23.89542479,f,Hispanic,no,Yes
+0,0,1,0,1,1,1,0,14.45454475,f,Others,yes,Yes
+1,0,0,0,1,0,0,0,62.92074643,m,middle eastern,yes,No
+1,1,0,1,1,1,1,0,18.34957017,f,White European,no,Yes
+1,1,1,1,1,1,1,1,29.277243,m,White European,yes,Yes
+0,0,0,0,0,0,0,0,16.28524309,m,White European,no,No
+1,1,1,1,0,0,1,1,21.6019814,f,mixed,yes,Yes
+0,1,0,1,0,1,1,1,19.97847816,f,mixed,yes,Yes
+0,0,0,0,0,0,1,0,29.27161357,f,Latino,no,No
+1,1,1,1,1,1,1,1,43.62625747,m,White European,yes,Yes
+1,1,0,0,0,1,1,1,28.10136823,m,White European,no,Yes
+0,0,0,0,0,0,0,0,20.98186716,m,Others,no,No
+0,0,1,1,0,0,0,1,15.09052497,m,south asian,no,Yes
+0,0,1,1,1,1,1,0,19.4801396,f,Others,yes,Yes
+1,1,1,1,1,1,1,1,30.70537622,f,Others,no,Yes
+0,0,0,1,1,1,0,0,25.71545925,m,White European,no,Yes
+1,1,0,0,1,1,1,1,53.89137595,m,White European,no,Yes
+1,0,0,0,0,0,0,0,19.13036361,f,middle eastern,no,No
+1,1,0,0,0,1,1,0,51.06141566,m,White European,yes,Yes
+1,1,0,0,0,0,1,0,27.32150965,m,Hispanic,no,No
+1,1,1,1,1,0,1,0,55.27876787,m,asian,no,Yes
+0,0,0,1,1,1,1,1,44.87586807,f,White European,no,Yes
+0,0,0,0,0,0,0,0,54.09464439,m,Others,no,No
+1,1,1,1,1,1,1,1,27.79945741,m,south asian,no,Yes
+0,0,1,1,1,0,0,1,53.3231657,m,Others,no,Yes
+0,1,1,0,1,0,1,0,22.42243059,f,black,no,Yes
+0,1,1,0,1,0,0,0,18.00918051,f,black,yes,No
+0,1,1,0,1,0,0,0,32.16281477,f,black,no,No
+1,1,1,1,1,1,1,1,17.89826171,m,White European,no,Yes
+0,0,0,0,0,0,0,0,16.69477428,m,black,no,No
+0,0,0,1,1,1,0,1,14.83218125,m,asian,no,Yes
+1,1,1,1,1,1,1,1,15.12771801,m,middle eastern,no,Yes
+0,0,0,0,1,1,1,1,38.52697981,m,Latino,yes,Yes
+0,0,0,0,0,0,0,0,31.09996355,f,south asian,no,No
+0,1,1,1,0,1,1,1,58.41167865,m,middle eastern,no,Yes
+1,1,1,1,1,1,1,1,59.60787077,m,White European,yes,Yes
+1,1,1,1,0,1,1,1,36.82751862,f,White European,no,Yes
+1,0,1,1,1,1,1,1,17.82050033,m,Latino,no,Yes
+1,0,1,1,0,1,1,1,21.62956024,m,Latino,no,Yes
+0,0,1,1,1,0,1,0,16.30397208,f,south asian,no,Yes
+1,1,1,1,0,1,1,0,24.36141607,f,Pacifica,yes,Yes
+1,1,0,1,0,1,1,0,42.08490685,f,White European,no,Yes
+1,1,0,0,1,0,1,1,17.66929077,m,Hispanic,no,Yes
+0,0,0,1,0,1,1,1,18.24255728,m,black,no,Yes
+0,0,0,0,0,0,0,0,19.24147315,f,black,no,No
+1,1,1,1,1,1,1,1,32.17009804,m,asian,no,Yes
+1,1,0,0,0,0,1,0,27.57733856,m,White European,yes,Yes
+1,1,1,1,1,1,1,1,28.42463843,f,White European,yes,Yes
+1,1,1,0,0,0,1,0,44.10109235,f,Latino,no,Yes
+0,0,1,1,1,1,1,1,28.95224942,m,White European,yes,Yes
+1,1,0,0,0,1,1,0,26.86995049,m,White European,no,Yes
+0,0,0,0,0,0,0,0,19.74198448,m,asian,no,No
+0,0,1,1,0,0,0,0,23.43507261,m,asian,no,Yes
+1,0,1,1,1,1,1,0,30.67846275,m,Hispanic,no,Yes
+0,0,0,0,0,0,1,0,23.89542479,m,asian,yes,No
+1,0,1,1,1,1,1,1,14.45454475,m,White European,yes,Yes
+0,1,1,1,1,1,1,1,62.92074643,m,middle eastern,yes,Yes
+0,0,0,0,1,0,1,0,18.34957017,m,south asian,no,No
+0,0,0,0,0,0,0,1,29.277243,m,asian,no,No
+1,1,1,1,0,0,1,1,16.28524309,m,asian,no,Yes
+0,0,0,0,0,1,1,1,21.6019814,m,Latino,no,No
+1,0,0,1,0,1,1,1,19.97847816,m,White European,yes,Yes
+1,0,0,1,0,1,1,0,29.27161357,m,Others,yes,Yes
+1,1,0,0,1,1,1,0,43.62625747,m,asian,no,Yes
+1,0,1,1,0,0,0,0,28.10136823,m,White European,no,Yes
+0,0,1,1,1,0,0,0,20.98186716,m,White European,no,No
+1,0,0,1,0,0,0,0,15.09052497,m,White European,no,No
+0,0,1,1,1,0,0,0,19.4801396,m,White European,no,Yes
+0,0,1,1,1,0,0,0,30.70537622,m,White European,no,No
+0,0,0,0,0,1,1,0,25.71545925,m,south asian,no,No
+0,0,0,0,0,1,1,0,53.89137595,f,asian,no,No
+0,0,0,0,0,1,1,0,19.13036361,f,asian,no,No
+0,0,0,1,0,0,0,1,51.06141566,m,White European,yes,No
+1,1,0,1,1,1,1,0,27.32150965,m,asian,no,Yes
+0,0,0,0,1,1,0,1,55.27876787,f,asian,no,Yes
+0,0,1,0,0,0,0,0,44.87586807,m,middle eastern,no,No
+1,0,1,0,0,0,1,0,54.09464439,m,middle eastern,no,Yes
+1,0,1,0,0,0,0,0,27.79945741,m,middle eastern,no,No
+1,0,0,0,0,0,0,0,53.3231657,m,White European,no,No
+1,0,0,0,0,0,0,0,22.42243059,m,White European,no,No
+0,0,0,0,0,0,0,0,18.00918051,m,White European,no,No
+1,1,1,1,1,1,1,1,32.16281477,m,White European,no,Yes
+1,1,0,0,0,1,0,0,17.89826171,m,asian,no,Yes
+0,0,1,1,1,1,1,1,16.69477428,m,White European,yes,Yes
+1,1,0,0,1,0,1,1,14.83218125,m,White European,no,Yes
+0,0,0,0,1,1,0,0,15.12771801,m,Native Indian,no,Yes
+0,0,0,0,0,0,1,0,38.52697981,m,middle eastern,no,No
+0,0,0,0,1,0,1,0,31.09996355,f,White European,no,No
+1,1,1,1,1,1,1,1,58.41167865,m,black,no,Yes
+1,1,1,1,1,1,1,1,59.60787077,m,black,no,Yes
+1,1,0,0,1,0,0,1,36.82751862,m,south asian,no,Yes
+1,0,0,0,1,1,0,1,17.82050033,f,asian,no,Yes
+1,0,0,0,1,0,0,0,21.62956024,m,black,no,No
+1,1,1,1,1,1,1,1,16.30397208,f,White European,no,Yes
+1,1,1,1,0,0,0,1,24.36141607,f,Hispanic,no,Yes
+1,1,0,1,1,1,1,1,42.08490685,m,south asian,yes,Yes
+0,1,0,0,0,0,1,0,17.66929077,m,asian,no,No
+0,1,0,0,1,1,1,0,18.24255728,m,asian,no,Yes
+1,1,0,1,1,1,1,0,19.24147315,m,White European,no,Yes
+0,0,1,1,1,0,1,1,32.17009804,f,White European,no,Yes
+1,1,0,1,0,1,1,1,27.57733856,m,middle eastern,yes,Yes
+0,0,0,0,1,0,0,0,28.42463843,m,south asian,yes,No
+1,0,1,1,1,1,1,0,44.10109235,m,White European,no,Yes
+1,0,1,1,0,1,1,1,28.95224942,m,asian,no,Yes
+1,0,1,1,1,1,0,1,26.86995049,m,White European,no,Yes
+1,0,0,0,0,0,1,0,19.74198448,m,south asian,no,No
+0,0,0,0,1,1,0,1,23.43507261,f,asian,no,Yes
+1,0,0,0,0,0,1,0,30.67846275,m,middle eastern,no,No
+1,0,0,0,0,0,1,1,23.89542479,m,middle eastern,no,Yes
+1,1,0,0,0,1,0,1,14.45454475,m,middle eastern,no,Yes
+0,0,0,1,0,0,0,0,62.92074643,m,White European,no,No
+1,1,0,1,1,1,0,1,18.34957017,m,White European,yes,Yes
+1,0,0,0,0,0,1,1,29.277243,m,White European,no,Yes
+1,1,1,0,0,0,1,1,16.28524309,m,black,no,Yes
+1,1,0,1,0,0,0,0,21.6019814,f,Latino,no,Yes
+0,0,0,0,0,1,1,0,19.97847816,m,White European,no,No
+1,0,1,1,1,1,0,1,29.27161357,m,White European,yes,Yes
+1,1,1,1,1,1,1,0,43.62625747,m,asian,no,Yes
+1,0,1,0,1,1,1,0,28.10136823,m,middle eastern,yes,Yes
+0,0,0,1,1,0,1,1,20.98186716,m,south asian,yes,Yes
+1,1,1,1,1,1,1,0,15.09052497,m,asian,no,Yes
+1,1,1,1,1,1,1,1,19.4801396,f,White European,no,Yes
+1,0,1,1,0,1,1,0,30.70537622,m,White European,no,Yes
+1,1,1,0,1,1,0,0,25.71545925,m,White European,no,Yes
+1,0,0,1,0,0,0,0,53.89137595,m,White European,no,No
+1,1,1,1,1,1,1,0,19.13036361,f,middle eastern,no,Yes
+0,0,0,0,1,0,1,1,51.06141566,m,south asian,yes,Yes
+1,0,1,1,1,1,1,1,27.32150965,f,middle eastern,no,Yes
+1,0,1,1,1,1,1,0,55.27876787,f,middle eastern,no,Yes
+1,1,1,1,1,1,1,0,44.87586807,m,White European,no,Yes
+1,0,0,1,0,0,1,0,54.09464439,m,asian,yes,Yes
+1,1,1,1,1,1,1,1,27.79945741,f,Latino,no,Yes
+1,1,0,0,0,0,0,0,53.3231657,m,White European,yes,Yes
+0,0,0,0,0,0,0,0,22.42243059,m,middle eastern,no,No
+0,1,0,0,0,0,0,0,18.00918051,m,middle eastern,yes,No
+0,0,0,1,0,0,0,0,32.16281477,m,asian,no,No
+1,0,1,1,1,0,1,0,17.89826171,f,middle eastern,no,Yes
+0,1,1,1,0,1,0,0,16.69477428,f,Pacifica,yes,Yes
+0,0,0,0,0,1,0,0,14.83218125,m,Latino,no,No
+1,0,0,0,1,1,0,1,15.12771801,f,asian,no,Yes
+0,0,0,0,1,1,1,1,38.52697981,m,black,yes,Yes
+1,0,0,1,1,0,1,0,31.09996355,m,White European,no,Yes
+1,1,1,1,1,1,1,1,58.41167865,m,black,no,Yes
+1,0,1,1,1,0,1,0,59.60787077,m,asian,no,Yes
+1,0,1,1,1,0,1,0,36.82751862,m,asian,no,Yes
+0,0,0,1,0,0,1,0,17.82050033,f,White European,no,No
+1,1,1,1,1,1,1,1,21.62956024,m,south asian,yes,Yes
+1,0,1,1,0,0,1,0,16.30397208,m,asian,no,Yes
+0,1,1,1,1,1,1,1,24.36141607,m,Latino,no,Yes
+0,1,0,0,1,1,0,0,42.08490685,m,White European,no,Yes
+0,0,0,0,0,0,1,0,17.66929077,m,south asian,no,No
+1,1,1,1,1,1,1,1,18.24255728,m,middle eastern,no,Yes
+1,0,0,0,0,1,1,1,19.24147315,f,White European,no,Yes
+0,0,1,1,0,0,1,0,32.17009804,m,Latino,no,Yes
+0,1,0,0,1,0,1,1,27.57733856,m,Hispanic,no,Yes
+1,1,0,0,0,1,1,1,28.42463843,f,asian,no,Yes
+0,0,1,1,0,0,0,0,44.10109235,m,asian,no,No
+1,1,0,0,1,1,1,0,28.95224942,m,asian,no,Yes
+0,0,0,0,1,0,0,0,26.86995049,f,White European,yes,No
+0,1,1,1,1,1,1,1,19.74198448,m,White European,no,Yes
+0,0,0,0,0,0,0,0,23.43507261,f,White European,no,No
+1,1,0,0,0,0,0,1,30.67846275,m,White European,no,Yes
+0,0,0,0,0,0,0,0,23.89542479,m,asian,yes,No
+0,0,0,0,0,0,1,1,14.45454475,m,asian,yes,No
+0,0,0,0,0,0,0,0,62.92074643,m,White European,no,No
+0,0,1,1,1,0,0,1,18.34957017,m,White European,no,Yes
+0,0,1,1,1,1,0,0,29.277243,f,Latino,no,Yes
+1,1,0,1,0,1,1,1,16.28524309,m,White European,no,Yes
+0,0,0,0,1,0,0,1,21.6019814,m,south asian,yes,No
+1,1,0,0,0,1,1,1,19.97847816,f,Others,no,Yes
+1,0,1,1,1,0,1,0,29.27161357,m,White European,yes,Yes
+0,0,0,0,0,1,0,0,43.62625747,m,south asian,yes,No
+0,0,0,0,0,0,0,1,28.10136823,m,White European,no,No
+1,0,0,1,0,1,1,1,20.98186716,m,Others,yes,Yes
+1,1,0,1,0,1,1,1,15.09052497,f,asian,no,Yes
+0,0,1,0,0,0,0,0,19.4801396,m,White European,no,No
+1,1,0,0,0,0,1,0,30.70537622,m,asian,no,Yes
+0,0,0,0,1,1,1,0,25.71545925,m,asian,no,Yes
+0,0,0,0,0,0,0,0,53.89137595,m,White European,no,No
+0,0,0,1,0,0,1,0,19.13036361,m,White European,yes,No
+1,1,1,1,0,0,1,1,51.06141566,m,Hispanic,yes,Yes
+1,1,1,1,1,1,1,1,27.32150965,m,asian,no,Yes
+1,1,1,1,1,1,1,1,55.27876787,m,asian,no,Yes
+1,1,1,1,1,1,1,1,44.87586807,m,middle eastern,no,Yes
+0,1,0,1,1,1,1,1,54.09464439,f,middle eastern,no,Yes
+1,1,0,0,1,1,1,0,27.79945741,f,White European,no,Yes
+0,0,0,0,0,0,0,0,53.3231657,f,White European,no,No
+0,0,0,0,0,0,0,0,22.42243059,f,White European,no,No
+0,0,1,1,1,0,1,0,18.00918051,m,black,yes,Yes
+1,0,1,1,1,1,1,1,32.16281477,m,middle eastern,yes,Yes
+1,0,0,0,0,0,0,1,17.89826171,m,White European,no,No
+1,1,0,0,1,1,0,1,16.69477428,m,asian,yes,Yes
